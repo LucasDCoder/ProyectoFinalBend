@@ -1,0 +1,12 @@
+error: Funcion createProduct en controlador: Error: Error: products validation failed: stock: Cast to Number failed for value "NaN" (type string) at path "stock"
+error: Funcion createProduct en controlador: Error: Error: products validation failed: stock: Cast to Number failed for value "NaN" (type string) at path "stock"
+error: Funcion restore en controlador: Invalid user
+error: Funcion restore en controlador: Invalid user
+error: Funcion restore en controlador: Invalid user
+error: Funcion restore en controlador: Invalid user
+error: Funcion createProduct en controlador: Error: Error: E11000 duplicate key error collection: test.products index: code_1 dup key: { code: "a98" }
+error: Funcion deleteProduct en controlador: Error: No estas autorizado para realizar esta operacion, no eres dueño del producto
+error: Funcion deleteProduct en controlador: Error: No estas autorizado para realizar esta operacion, no eres dueño del producto
+error: Funcion deleteProduct en controlador: Error: No estas autorizado para realizar esta operacion, no eres dueño del producto
+error: Funcion deleteProduct en controlador: Error: No estas autorizado para realizar esta operacion, no eres dueño del producto
+error: Funcion deleteProduct en controlador: Error: No estas autorizado para realizar esta operacion, no eres dueño del producto
