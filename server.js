@@ -27,7 +27,7 @@ app.use(express.urlencoded({ extended: true }))
 const httpServer = app.listen(config.PORT, () => console.log(`👂👂👂 Escuchando en el puerto ${config.PORT}`))
 export const io = new Server(httpServer, {
   cors: {
-    origin: "https://e-commerce-backend-production-a1b2.up.railway.app/"
+    origin: "https://complete-wrench-production.up.railway.app/"
   }
 })
 
